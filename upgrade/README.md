@@ -20,7 +20,8 @@
 4. Link Windows 10 digital license to Microsoft account
 5. Inspect systen for necessary software
 6. Back up essential files
-7. Shut down machine
+7. Install BIOS update
+8. Shut down machine
 
 ### Installation
 
