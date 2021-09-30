@@ -18,9 +18,9 @@
 2. Burn ISO to DVD
 3. Create Microsoft account
 4. Link Windows 10 digital license to Microsoft account
-5. Inspect systen for necessary software
+5. Inspect system for necessary software
 6. Back up essential files
-7. Install BIOS update
+7. Install [BIOS update](https://www.dell.com/support/home/en-aw/drivers/driversdetails?driverid=5r4nt&oscode=w864&productcode=vostro-260)
 8. Shut down machine
 
 ### Installation
