@@ -49,6 +49,8 @@
 
 The options are: [see Microsoft upgrade options](https://support.microsoft.com/en-us/office/how-do-i-upgrade-office-ee68f6cf-422f-464a-82ec-385f65391350)
 - Reinstall Office 2013 and use your existing [product key](https://support.microsoft.com/en-us/office/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)
-- Purchase Office 2019 or Office 2021 (perpetual license, 5 years support)
+- Purchase [Office 2019 Home & Business](https://www.microsoft.com/en-au/microsoft-365/p/office-home-business-2019/cfq7ttc0k7cq?activetab=pivot%3aoverviewtab) $249-$349 or Office 2021 when it comes out on October 5, similar price (both perpetual license with 5 years support from release date)
 - Purchase [Microsoft 365 Family subscription](https://www.microsoft.com/en-au/microsoft-365/buy/compare-all-microsoft-365-products) $129 pa for up to 6 people
 - See what Office version Mum has and whether Dad is included
+
+I recommend seeing if you are covered by what Mum has, otherwise purchase Office 2021 Home & Business next week when it becomes available.
