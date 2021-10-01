@@ -16,10 +16,10 @@
 
 1. Create Windows 10 64-bit ISO image using Media Creation Tool
 2. Burn ISO to DVD
-3. Create Microsoft account
-4. Link Windows 10 digital license to Microsoft account
+3. Create [Microsoft account](https://support.microsoft.com/en-us/account-billing/sign-in-to-your-microsoft-account-dashboard-2ffedaca-6e1b-bc18-f28c-58539e1cb6d3)
+4. [Link Windows 10 digital license to Microsoft account](https://www.windowscentral.com/how-link-your-windows-10-product-key-microsoft-account) or [less helpful Microsoft instructions](https://support.microsoft.com/en-us/windows/reactivating-windows-10-after-a-hardware-change-2c0e962a-f04c-145b-6ead-fb3fc72b6665)
 5. Inspect system for necessary software
-6. Back up essential files
+6. Back up essential files, [Outlook data files](https://support.microsoft.com/en-us/office/introduction-to-outlook-data-files-pst-and-ost-222eaf92-a995-45d9-bde2-f331f60e2790)
 7. Install [BIOS update](https://www.dell.com/support/home/en-aw/drivers/driversdetails?driverid=5r4nt&oscode=w864&productcode=vostro-260)
 8. Shut down machine
 
@@ -44,3 +44,11 @@
 3. Access to old hard drive
 4. Access to internet, email
 5. Running software
+
+### Office
+
+The options are: [see Microsoft upgrade options](https://support.microsoft.com/en-us/office/how-do-i-upgrade-office-ee68f6cf-422f-464a-82ec-385f65391350)
+- Reinstall Office 2013 and use your existing [product key](https://support.microsoft.com/en-us/office/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)
+- Purchase Office 2019 or Office 2021 (perpetual license, 5 years support)
+- Purchase [Microsoft 365 Family subscription](https://www.microsoft.com/en-au/microsoft-365/buy/compare-all-microsoft-365-products) $129 pa for up to 6 people
+- See what Office version Mum has and whether Dad is included
